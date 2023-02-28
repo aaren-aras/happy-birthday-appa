@@ -26,11 +26,11 @@ body {
 
 /* Selector Types: https://www.cssportal.com/blog/what-does-and-do-in-css/ */
 .controls > input {
-  width: 70%;
+  width: 60%;
 }
 
 .controls > label {
   font-size: 15px;
   color: white;
-  width: 25%;
+  width: 35%;
 }
